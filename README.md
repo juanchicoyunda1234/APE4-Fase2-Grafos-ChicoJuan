@@ -92,8 +92,7 @@ APE4-Fase2-Grafos-ChicoJuan/
 ├── entrega/
 │   └── APE4Fase2ChicoJuan.java   (todas las clases en un solo archivo, el que se sube a Moodle)
 └── docs/
-    ├── capturas/
-    └── Informe_APE4_Fase2_ChicoJuan.pdf
+    └── capturas/  (capturas de los anexos)
 ```
 
 ## Operaciones
@@ -184,7 +183,7 @@ Usa memoria proporcional a V + A en vez de V², que en una red social dispersa e
 
 ## Anexos
 
-Capturas de la ejecución real en IntelliJ IDEA (`app.Demostracion` y `RedSocialTest`). Todas están en [`docs/capturas`](docs/capturas) y el informe completo en [`docs/`](docs).
+Capturas de la ejecución real en IntelliJ IDEA (`app.Demostracion` y `RedSocialTest`). Todas están en [`docs/capturas`](docs/capturas).
 
 ### Anexo 1 · registrarPersona y mostrarRed (paso 1)
 
