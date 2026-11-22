@@ -215,7 +215,3 @@ Capturas de la ejecución real en IntelliJ IDEA (`app.Demostracion` y `RedSocial
 ### Anexo 5 · Pruebas automatizadas con JUnit 5
 
 ![Anexo 5](docs/capturas/anexo5_pruebas_junit.png)
-
-### Anexo 6 · Repositorio
-
-https://github.com/juanchicoyunda1234/APE4-Fase2-Grafos-ChicoJuan
